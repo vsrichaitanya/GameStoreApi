@@ -23,15 +23,11 @@ This project demonstrates clean layered architecture, DTO usage, dependency inje
 
 
 ⚙️ Setup & Run
+
 1️⃣ Clone the Repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/vsrichaitanya/ShopSphere.git)
- - cd your-repo-name
-2️⃣ Restore Packages
- - dotnet restore
-3️⃣ Apply Migrations
- - dotnet ef database update
-4️⃣ Run the Application
- - dotnet run
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/vsrichaitanya/ShopSphere.git) 2️⃣ Restore Packages  - dotnet restore
+3️⃣ Apply Migrations - dotnet ef database update
+4️⃣ Run the Application - dotnet run
 
 
 Swagger UI will be available at: https://localhost:{port}/swagger
